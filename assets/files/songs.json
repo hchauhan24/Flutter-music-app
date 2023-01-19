@@ -1,0 +1,46 @@
+{
+  "songs":[
+
+    { "id" : 0,
+      "name" : "As it was",
+      "artist" : "Harry Styles",
+      "image":"assets/SongImg/As it was img.png",
+      "song" : "assets/Songs/As it was.mp3"
+    },
+
+    { "id" : 1,
+      "name" : "Thinking Out Loud",
+      "artist" : "Ed Sheeran",
+      "image":"assets/SongImg/Thinking out loud img.png",
+      "song" : "assets/Songs/Thinking out loud.mp3"
+    },
+
+    { "id" : 2,
+      "name" : "Cooped up",
+      "artist" : "Post Malone",
+      "image":"assets/SongImg/Cooped up img.png",
+      "song" : "assets/Songs/Cooped Up.mp3"
+    },
+
+    { "id" : 3,
+      "name" : "Blinding Lights",
+      "artist" : "The Weeknd",
+      "image":"assets/SongImg/Blinding lights img.png",
+      "song" : "assets/Songs/Blinding lights.mp3"
+    },
+
+    { "id" : 4,
+      "name" : "Summer High",
+      "artist" : "AP Dhillon",
+      "image":"assets/SongImg/summer high img.png",
+      "song" : "assets/Songs/Summer High.mp3"
+    },
+
+    { "id" : 5,
+      "name" : "Attention",
+      "artist" : "Charlie Puth",
+      "image":"assets/SongImg/Attention img.png",
+      "song" : "assets/Songs/Attention.m4a"
+    }
+  ]
+}
